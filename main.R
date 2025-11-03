@@ -48,4 +48,7 @@ pres = pres %>%
 # output ------------------------------------------------------------------
 
 pres %>%
+  # make key fields more readable
+  mutate_if(is.numeric, function(x){round(x*100,1)}) %>%
+  # write
   write_csv('output/county_benchmarks_2025.csv')
