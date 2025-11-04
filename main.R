@@ -16,6 +16,12 @@ pres = pres %>%
 
 pres
 
+# compute share of statewide ballots
+pres = pres %>%
+  group_by(year, state_abb) %>%
+  mutate(share_statewide_votes = votes_all / sum(votes_all)) %>%
+  ungroup()
+
 # compute county leans  
 pres = pres %>%
   mutate(dem_pct = votes_dem / votes_all,
@@ -36,7 +42,8 @@ pres = pres %>%
   summarise(
     dem_margin_state = weighted.mean(dem_margin_state, weight),
     dem_lean = weighted.mean(dem_lean, weight),
-    dem_benchmark = weighted.mean(dem_benchmark, weight)
+    dem_benchmark = weighted.mean(dem_benchmark, weight),
+    share_statewide_votes = weighted.mean(share_statewide_votes, weight)
   )
 
 
