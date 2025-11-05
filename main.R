@@ -34,6 +34,17 @@ pres = pres %>%
   mutate(dem_benchmark = 
            dem_lean - dem_margin_state)
 
+
+# output 2024 results file, for a viz
+pres %>%
+  filter(year == 2024) %>%
+  select(state_abb, county_name, votes_all, dem_margin) %>%
+  # make key fields more readable
+  mutate_if(is.numeric, function(x){round(x,2)}) %>%
+  # write
+  write_csv('output/pres_results_county_2024.csv')
+
+
 # that's done! now, compute the avg over the last 2 cycles, as of 2024
 pres = pres %>%
   filter(year >= 2020) %>%
@@ -59,3 +70,4 @@ pres %>%
   mutate_if(is.numeric, function(x){round(x*100,1)}) %>%
   # write
   write_csv('output/county_benchmarks_2025.csv')
+
