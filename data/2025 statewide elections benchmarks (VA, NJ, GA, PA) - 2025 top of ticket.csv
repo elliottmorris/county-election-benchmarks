@@ -1,0 +1,381 @@
+state,county,margin,votes,Percent of votes in In,county_elliott
+NJ,Atlantic,Sherrill +8,"79,042",80,ATLANTIC
+NJ,Bergen,Sherrill +10,"336,767",100,BERGEN
+NJ,Burlington,Sherrill +20,"182,857",100,BURLINGTON
+NJ,Camden,Sherrill +36,"182,089",100,CAMDEN
+NJ,Cape May,Ciattarelli +18,"42,776",100,CAPE MAY
+NJ,Cumberland,Sherrill +4,"39,304",100,CUMBERLAND
+NJ,Essex,Sherrill +53,"228,072",100,ESSEX
+NJ,Gloucester,Sherrill +4,"125,840",100,GLOUCESTER
+NJ,Hudson,Sherrill +50,"162,497",100,HUDSON
+NJ,Hunterdon,Ciattarelli +5,"65,437",100,HUNTERDON
+NJ,Mercer,Sherrill +42,"120,295",100,MERCER
+NJ,Middlesex,Sherrill +25,"262,220",100,MIDDLESEX
+NJ,Monmouth,Ciattarelli +9,"278,602",100,MONMOUTH
+NJ,Morris,Sherrill +0.65,"219,101",100,MORRIS
+NJ,Ocean,Ciattarelli +35,"271,571",100,OCEAN
+NJ,Passaic,Sherrill +15,"143,533",100,PASSAIC
+NJ,Salem,Ciattarelli +16,"22,625",100,SALEM
+NJ,Somerset,Sherrill +18,"133,656",100,SOMERSET
+NJ,Sussex,Ciattarelli +19,"63,729",100,SUSSEX
+NJ,Union,Sherrill +35,"168,733",95,UNION
+NJ,Warren,Ciattarelli +18,"42,499",100,WARREN
+VA,Accomack,Earle-Sears +9,"12,923",>95%,ACCOMACK
+VA,Albemarle,Spanberger +40,"54,431",>95%,ALBEMARLE
+VA,Alexandria,Spanberger +66,"61,007",>95%,ALEXANDRIA CITY
+VA,Alleghany,Earle-Sears +39,"5,752",>95%,ALLEGHANY
+VA,Amelia,Earle-Sears +43,"6,311",>95%,AMELIA
+VA,Amherst,Earle-Sears +35,"13,038",>95%,AMHERST
+VA,Appomattox,Earle-Sears +52,"7,345",>95%,APPOMATTOX
+VA,Arlington,Spanberger +67,"95,115",>95%,ARLINGTON
+VA,Augusta,Earle-Sears +45,"33,941",>95%,AUGUSTA
+VA,Bath,Earle-Sears +49,"1,905",>95%,BATH
+VA,Bedford,Earle-Sears +49,"38,912",>95%,BEDFORD
+VA,Bland,Earle-Sears +64,"2,413",>95%,BLAND
+VA,Botetourt,Earle-Sears +41,"16,728",>95%,BOTETOURT
+VA,Bristol,Earle-Sears +30,"4,721",>95%,BRISTOL CITY
+VA,Brunswick,Spanberger +14,"6,023",>95%,BRUNSWICK
+VA,Buchanan,Earle-Sears +64,"5,384",>95%,BUCHANAN
+VA,Buckingham,Earle-Sears +19,"6,012",>95%,BUCKINGHAM
+VA,Buena Vista,Earle-Sears +33,"2,078",>95%,BUENA VISTA CITY
+VA,Campbell,Earle-Sears +47,"22,813",>95%,CAMPBELL
+VA,Caroline,Earle-Sears +0.1,"13,282",>95%,CAROLINE
+VA,Carroll,Earle-Sears +57,"11,277",>95%,CARROLL
+VA,Charles City,Spanberger +15,"3,449",>95%,CHARLES CITY
+VA,Charlotte,Earle-Sears +35,"4,679",>95%,CHARLOTTE
+VA,Charlottesville,Spanberger +78,"17,505",>95%,CHARLOTTESVILLE CITY
+VA,Chesapeake,Spanberger +13,"95,241",>95%,CHESAPEAKE CITY
+VA,Chesterfield,Spanberger +17,"168,219",>95%,CHESTERFIELD
+VA,Clarke,Earle-Sears +11,"7,567",>95%,CLARKE
+VA,Colonial Heights,Earle-Sears +25,"6,533",>95%,COLONIAL HEIGHTS CITY
+VA,Covington,Earle-Sears +19,"1,668",>95%,COVINGTON CITY
+VA,Craig,Earle-Sears +59,"2,272",>95%,CRAIG
+VA,Culpeper,Earle-Sears +16,"21,571",>95%,CULPEPER
+VA,Cumberland,Earle-Sears +20,"4,276",>95%,CUMBERLAND
+VA,Danville,Spanberger +24,"12,232",>95%,DANVILLE CITY
+VA,Dickenson,Earle-Sears +55,"4,369",>95%,DICKENSON
+VA,Dinwiddie,Earle-Sears +17,"11,974",>95%,DINWIDDIE
+VA,Emporia,Spanberger +34,"1,646",>95%,EMPORIA CITY
+VA,Essex,Earle-Sears +6,"4,858",>95%,ESSEX
+VA,Fairfax,Spanberger +47,"438,263",>95%,FAIRFAX
+VA,Fairfax City,Spanberger +45,"10,232",>95%,FAIRFAX CITY
+VA,Falls Church,Spanberger +69,"7,455",>95%,FALLS CHURCH CITY
+VA,Fauquier,Earle-Sears +16,"34,132",>95%,FAUQUIER
+VA,Floyd,Earle-Sears +30,"7,368",>95%,FLOYD
+VA,Fluvanna,Earle-Sears +7,"12,107",91%,FLUVANNA
+VA,Franklin,Earle-Sears +41,"23,033",>95%,FRANKLIN
+VA,Franklin City,Spanberger +26,"2,902",>95%,FRANKLIN CITY
+VA,Frederick,Earle-Sears +20,"38,400",>95%,FREDERICK
+VA,Fredericksburg,Spanberger +43,"10,191",>95%,FREDERICKSBURG CITY
+VA,Galax,Earle-Sears +37,"1,871",>95%,GALAX CITY
+VA,Giles,Earle-Sears +47,"6,748",>95%,GILES
+VA,Gloucester,Earle-Sears +32,"17,251",>95%,GLOUCESTER
+VA,Goochland,Earle-Sears +14,"16,942",>95%,GOOCHLAND
+VA,Grayson,Earle-Sears +57,"5,866",>95%,GRAYSON
+VA,Greene,Earle-Sears +16,"9,409",>95%,GREENE
+VA,Greensville,Spanberger +14,"3,323",>95%,GREENSVILLE
+VA,Halifax,Earle-Sears +21,"13,264",>95%,HALIFAX
+VA,Hampton,Spanberger +48,"46,065",>95%,HAMPTON CITY
+VA,Hanover,Earle-Sears +21,"59,682",>95%,HANOVER
+VA,Harrisonburg,Spanberger +41,"11,753",>95%,HARRISONBURG CITY
+VA,Henrico,Spanberger +40,"207,871",>95%,HENRICO
+VA,Henry,Earle-Sears +28,"17,414",>95%,HENRY
+VA,Highland,Earle-Sears +40,"1,189",>95%,HIGHLAND
+VA,Hopewell,Spanberger +21,"6,615",>95%,HOPEWELL CITY
+VA,Isle of Wight,Earle-Sears +8,"12,212",64%,ISLE OF WIGHT
+VA,James City,Spanberger +10,"42,264",>95%,JAMES CITY
+VA,King and Queen,Earle-Sears +21,"3,264",>95%,KING AND QUEEN
+VA,King George,Earle-Sears +19,"11,550",>95%,KING GEORGE
+VA,King William,Earle-Sears +34,"8,999",>95%,KING WILLIAM
+VA,Lancaster,Earle-Sears +9,"6,008",>95%,LANCASTER
+VA,Lee,Earle-Sears +68,"6,433",>95%,LEE
+VA,Lexington,Spanberger +36,"2,119",>95%,LEXINGTON CITY
+VA,Loudoun,Spanberger +29,"164,366",>95%,LOUDOUN
+VA,Louisa,Earle-Sears +20,"18,719",>95%,LOUISA
+VA,Lunenburg,Earle-Sears +20,"4,466",>95%,LUNENBURG
+VA,Lynchburg,Spanberger +1.1,"25,488",>95%,LYNCHBURG CITY
+VA,Madison,Earle-Sears +28,"6,610",>95%,MADISON
+VA,Manassas,Spanberger +30,"11,514",>95%,MANASSAS CITY
+VA,Manassas Park,Spanberger +42,"3,909",>95%,MANASSAS PARK CITY
+VA,Martinsville,Spanberger +27,"3,968",>95%,MARTINSVILLE CITY
+VA,Mathews,Earle-Sears +35,"4,786",>95%,MATHEWS
+VA,Mecklenburg,Earle-Sears +21,"11,731",>95%,MECKLENBURG
+VA,Middlesex,Earle-Sears +23,"5,618",>95%,MIDDLESEX
+VA,Montgomery,Spanberger +14,"34,674",>95%,MONTGOMERY
+VA,Nelson,Spanberger +0.77,"7,686",>95%,NELSON
+VA,New Kent,Earle-Sears +27,"13,803",>95%,NEW KENT
+VA,Newport News,Spanberger +37,"55,222",>95%,NEWPORT NEWS CITY
+VA,Norfolk,Spanberger +51,"62,181",>95%,NORFOLK CITY
+VA,Northampton,Spanberger +11,"5,493",>95%,NORTHAMPTON
+VA,Northumberland,Earle-Sears +21,"6,800",>95%,NORTHUMBERLAND
+VA,Norton,Earle-Sears +37,"1,052",>95%,NORTON CITY
+VA,Nottoway,Earle-Sears +16,"5,349",>95%,NOTTOWAY
+VA,Orange,Earle-Sears +15,"17,127",>95%,ORANGE
+VA,Page,Earle-Sears +49,"9,266",>95%,PAGE
+VA,Patrick,Earle-Sears +55,"6,579",>95%,PATRICK
+VA,Petersburg,Spanberger +77,"9,791",>95%,PETERSBURG CITY
+VA,Pittsylvania,Earle-Sears +41,"24,613",>95%,PITTSYLVANIA
+VA,Poquoson,Earle-Sears +42,"6,330",>95%,POQUOSON CITY
+VA,Portsmouth,Spanberger +46,"30,900",>95%,PORTSMOUTH CITY
+VA,Powhatan,Earle-Sears +40,"16,957",>95%,POWHATAN
+VA,Prince Edward,Spanberger +0.91,"7,324",>95%,PRINCE EDWARD
+VA,Prince George,Earle-Sears +17,"13,597",>95%,PRINCE GEORGE
+VA,Prince William,Spanberger +34,"161,419",>95%,PRINCE WILLIAM
+VA,Pulaski,Earle-Sears +38,"12,466",>95%,PULASKI
+VA,Radford,Spanberger +10,"4,519",>95%,RADFORD CITY
+VA,Rappahannock,Earle-Sears +10,"4,030",>95%,RAPPAHANNOCK
+VA,Richmond,Earle-Sears +28,"3,110",>95%,RICHMOND
+VA,Richmond City,Spanberger +73,"86,585",>95%,RICHMOND CITY
+VA,Roanoke,Earle-Sears +16,"42,404",>95%,ROANOKE
+VA,Roanoke City,Spanberger +34,"30,439",>95%,ROANOKE CITY
+VA,Rockbridge,Earle-Sears +30,"10,096",>95%,ROCKBRIDGE
+VA,Rockingham,Earle-Sears +36,"35,821",>95%,ROCKINGHAM
+VA,Russell,Earle-Sears +63,"8,860",>95%,RUSSELL
+VA,Salem,Earle-Sears +12,"9,374",>95%,SALEM CITY
+VA,Scott,Earle-Sears +66,"7,315",>95%,SCOTT
+VA,Shenandoah,Earle-Sears +38,"18,089",>95%,SHENANDOAH
+VA,Smyth,Earle-Sears +54,"9,960",>95%,SMYTH
+VA,Southampton,Earle-Sears +21,"7,404",>95%,SOUTHAMPTON
+VA,Spotsylvania,Spanberger +2,"59,035",>95%,SPOTSYLVANIA
+VA,Stafford,Spanberger +11,"61,799",>95%,STAFFORD
+VA,Staunton,Spanberger +21,"10,663",>95%,STAUNTON CITY
+VA,Suffolk,Spanberger +23,"40,506",>95%,SUFFOLK CITY
+VA,Surry,Spanberger +5,"3,567",>95%,SURRY
+VA,Sussex,Spanberger +6,"3,810",>95%,SUSSEX
+VA,Tazewell,Earle-Sears +65,"12,605",>95%,TAZEWELL
+VA,Virginia Beach,Spanberger +11,"165,548",>95%,VIRGINIA BEACH CITY
+VA,Warren,Earle-Sears +29,"16,046",>95%,WARREN
+VA,Washington,Earle-Sears +49,"20,927",>95%,WASHINGTON
+VA,Waynesboro,Spanberger +5,"8,420",>95%,WAYNESBORO CITY
+VA,Westmoreland,Earle-Sears +9,"8,072",>95%,WESTMORELAND
+VA,Williamsburg,Spanberger +48,"6,125",>95%,WILLIAMSBURG CITY
+VA,Winchester,Spanberger +20,"8,703",>95%,WINCHESTER CITY
+VA,Wise,Earle-Sears +64,"6,729",61%,WISE
+VA,Wythe,Earle-Sears +53,"10,992",>95%,WYTHE
+VA,York,Earle-Sears +0.23,"31,098",>95%,YORK
+PA,Adams,Wolford +18,"29,440",100,ADAMS
+PA,Allegheny,Tsai +37,"372,845",91,ALLEGHENY
+PA,Armstrong,Wolford +42,"18,563",100,ARMSTRONG
+PA,Beaver,Wolford +3,"47,165",100,BEAVER
+PA,Bedford,Wolford +56,"12,633",100,BEDFORD
+PA,Berks,Wolford +0.58,"88,314",91,BERKS
+PA,Blair,Wolford +35,"28,475",100,BLAIR
+PA,Bradford,Wolford +35,"13,681",100,BRADFORD
+PA,Bucks,Tsai +14,"169,790",78,BUCKS
+PA,Butler,Wolford +18,"60,253",100,BUTLER
+PA,Cambria,Wolford +22,"35,199",100,CAMBRIA
+PA,Cameron,Wolford +42,"1,134",100,CAMERON
+PA,Carbon,Wolford +18,"16,476",100,CARBON
+PA,Centre,Tsai +16,"43,512",100,CENTRE
+PA,Chester,Tsai +28,"141,123",80,CHESTER
+PA,Clarion,Wolford +43,"9,881",100,CLARION
+PA,Clearfield,Wolford +40,"21,275",100,CLEARFIELD
+PA,Clinton,Wolford +26,"9,518",100,CLINTON
+PA,Columbia,Wolford +19,"16,342",83,COLUMBIA
+PA,Crawford,Wolford +26,"21,663",100,CRAWFORD
+PA,Cumberland,Tsai +3,"79,204",100,CUMBERLAND
+PA,Dauphin,Tsai +12,"81,179",100,DAUPHIN
+PA,Delaware,Tsai +30,"171,753",90,DELAWARE
+PA,Elk,Wolford +30,"8,624",100,ELK
+PA,Erie,Tsai +9,"74,757",95,ERIE
+PA,Fayette,Wolford +15,"29,355",100,FAYETTE
+PA,Forest,Wolford +35,"1,440",100,FOREST
+PA,Franklin,Wolford +30,"35,927",100,FRANKLIN
+PA,Fulton,Wolford +61,"3,249",100,FULTON
+PA,Greene,Wolford +25,"8,376",79,GREENE
+PA,Huntingdon,Wolford +42,"11,329",100,HUNTINGDON
+PA,Indiana,Wolford +25,"21,688",100,INDIANA
+PA,Jefferson,Wolford +50,"12,115",100,JEFFERSON
+PA,Juniata,Wolford +53,"5,877",100,JUNIATA
+PA,Lackawanna,Tsai +22,"61,532",94,LACKAWANNA
+PA,Lancaster,Wolford +3,"151,548",95,LANCASTER
+PA,Lawrence,Wolford +18,"24,104",100,LAWRENCE
+PA,Lebanon,Wolford +21,"36,524",100,LEBANON
+PA,Lehigh,Tsai +21,"93,528",75,LEHIGH
+PA,Luzerne,Wolford +1.8,"74,491",100,LUZERNE
+PA,Lycoming,Wolford +32,"29,054",94,LYCOMING
+PA,McKean,Wolford +36,"8,792",100,MCKEAN
+PA,Mercer,Wolford +15,"27,809",100,MERCER
+PA,Mifflin,Wolford +46,"10,276",100,MIFFLIN
+PA,Monroe,Tsai +16,"39,267",100,MONROE
+PA,Montgomery,Tsai +40,"258,326",90,MONTGOMERY
+PA,Montour,Wolford +23,"3,931",82,MONTOUR
+PA,Northampton,Tsai +17,"86,471",100,NORTHAMPTON
+PA,Northumberland,Wolford +37,"17,186",100,NORTHUMBERLAND
+PA,Perry,Wolford +40,"13,017",100,PERRY
+PA,Philadelphia,Tsai +71,"304,314",93,PHILADELPHIA
+PA,Pike,Wolford +5,"15,383",100,PIKE
+PA,Potter,Wolford +53,"4,731",93,POTTER
+PA,Schuylkill,Wolford +29,"35,045",100,SCHUYLKILL
+PA,Snyder,Wolford +39,"9,709",100,SNYDER
+PA,Somerset,Wolford +45,"19,636",100,SOMERSET
+PA,Sullivan,Wolford +39,"1,969",100,SULLIVAN
+PA,Susquehanna,Wolford +32,"11,054",100,SUSQUEHANNA
+PA,Tioga,Wolford +42,"10,337",100,TIOGA
+PA,Union,Wolford +9,"9,992",100,UNION
+PA,Venango,Wolford +36,"14,989",100,VENANGO
+PA,Warren,Wolford +29,"10,298",100,WARREN
+PA,Washington,Wolford +6,"59,556",100,WASHINGTON
+PA,Wayne,Wolford +22,"13,802",95,WAYNE
+PA,Westmoreland,Wolford +9,"100,634",95,WESTMORELAND
+PA,Wyoming,Wolford +28,"7,896",100,WYOMING
+PA,York,Wolford +10,"110,101",100,YORK
+GA,Appling,Echols +52,2038,100,APPLING
+GA,Atkinson,Echols +17,762,100,ATKINSON
+GA,Bacon,Echols +59,954,100,BACON
+GA,Baker,Johnson +10,366,100,BAKER
+GA,Baldwin,Johnson +22,5973,100,BALDWIN
+GA,Banks,Echols +72,2557,100,BANKS
+GA,Barrow,Echols +18,9187,100,BARROW
+GA,Bartow,Echols +41,16905,100,BARTOW
+GA,Ben Hill,Echols +3,1918,100,BEN HILL
+GA,Berrien,Echols +60,1780,100,BERRIEN
+GA,Bibb,Johnson +47,19215,100,BIBB
+GA,Bleckley,Echols +38,1107,100,BLECKLEY
+GA,Brantley,Echols +76,1698,100,BRANTLEY
+GA,Brooks,Johnson +13,1937,100,BROOKS
+GA,Bryan,Echols +18,7156,100,BRYAN
+GA,Bulloch,Echols +8,9185,100,BULLOCH
+GA,Burke,Johnson +32,2568,100,BURKE
+GA,Butts,Echols +34,3668,100,BUTTS
+GA,Calhoun,Johnson +46,586,100,CALHOUN
+GA,Camden,Echols +8,5270,100,CAMDEN
+GA,Candler,Echols +27,1385,100,CANDLER
+GA,Carroll,Echols +14,12775,100,CARROLL
+GA,Catoosa,Echols +39,6912,100,CATOOSA
+GA,Charlton,Echols +50,1060,100,CHARLTON
+GA,Chatham,Johnson +32,50092,100,CHATHAM
+GA,Chattahoochee,Echols +7,364,100,CHATTAHOOCHEE
+GA,Chattooga,Echols +45,2365,100,CHATTOOGA
+GA,Cherokee,Echols +20,41741,100,CHEROKEE
+GA,Clarke,Johnson +67,19056,100,CLARKE
+GA,Clay,Johnson +33,414,100,CLAY
+GA,Clayton,Johnson +85,35892,100,CLAYTON
+GA,Clinch,Echols +38,1498,100,CLINCH
+GA,Cobb,Johnson +40,121352,100,COBB
+GA,Coffee,Echols +7,2941,100,COFFEE
+GA,Colquitt,Echols +40,4141,100,COLQUITT
+GA,Columbia,Johnson +4,21346,100,COLUMBIA
+GA,Cook,Echols +21,2008,100,COOK
+GA,Coweta,Echols +19,26783,100,COWETA
+GA,Crawford,Echols +28,1324,100,CRAWFORD
+GA,Crisp,Johnson +2,2646,100,CRISP
+GA,Dade,Echols +37,1654,100,DADE
+GA,Dawson,Echols +51,3601,100,DAWSON
+GA,Decatur,Echols +3,4166,100,DECATUR
+GA,DeKalb,Johnson +82,151615,100,DEKALB
+GA,Dodge,Echols +34,1533,100,DODGE
+GA,Dooly,Johnson +27,1327,100,DOOLY
+GA,Dougherty,Johnson +58,10913,100,DOUGHERTY
+GA,Douglas,Johnson +57,20476,100,DOUGLAS
+GA,Early,Johnson +28,1696,100,EARLY
+GA,Echols,Echols +64,181,100,ECHOLS
+GA,Effingham,Echols +27,9567,100,EFFINGHAM
+GA,Elbert,Echols +32,2388,100,ELBERT
+GA,Emanuel,Echols +21,2936,100,EMANUEL
+GA,Evans,Echols +26,1145,100,EVANS
+GA,Fannin,Echols +46,2761,100,FANNIN
+GA,Fayette,Johnson +10,29643,100,FAYETTE
+GA,Floyd,Echols +24,12268,100,FLOYD
+GA,Forsyth,Echols +14,30837,100,FORSYTH
+GA,Franklin,Echols +62,2096,100,FRANKLIN
+GA,Fulton,Johnson +57,158675,100,FULTON
+GA,Gilmer,Echols +53,5271,100,GILMER
+GA,Glascock,Echols +81,420,100,GLASCOCK
+GA,Glynn,Echols +3,10505,100,GLYNN
+GA,Gordon,Echols +47,5191,100,GORDON
+GA,Grady,Echols +12,2612,100,GRADY
+GA,Greene,Echols +10,3822,100,GREENE
+GA,Gwinnett,Johnson +44,121217,100,GWINNETT
+GA,Habersham,Echols +55,6306,100,HABERSHAM
+GA,Hall,Echols +29,24590,100,HALL
+GA,Hancock,Johnson +59,1129,100,HANCOCK
+GA,Haralson,Echols +66,3796,100,HARALSON
+GA,Harris,Echols +7,4494,100,HARRIS
+GA,Hart,Echols +31,2331,100,HART
+GA,Heard,Echols +50,1045,100,HEARD
+GA,Henry,Johnson +57,41980,100,HENRY
+GA,Houston,Johnson +13,25965,100,HOUSTON
+GA,Irwin,Echols +10,846,100,IRWIN
+GA,Jackson,Echols +40,10010,100,JACKSON
+GA,Jasper,Echols +38,2751,100,JASPER
+GA,Jeff Davis,Echols +45,1131,100,JEFF DAVIS
+GA,Jefferson,Johnson +19,3053,100,JEFFERSON
+GA,Jenkins,Echols +8,773,100,JENKINS
+GA,Johnson,Echols +28,856,100,JOHNSON
+GA,Jones,Echols +9,3622,100,JONES
+GA,Lamar,Echols +30,3240,100,LAMAR
+GA,Lanier,Echols +12,696,100,LANIER
+GA,Laurens,Echols +16,6469,100,LAURENS
+GA,Lee,Echols +10,3454,100,LEE
+GA,Liberty,Johnson +44,6753,100,LIBERTY
+GA,Lincoln,Echols +35,1441,100,LINCOLN
+GA,Long,Echols +8,1560,100,LONG
+GA,Lowndes,Johnson +17,9857,100,LOWNDES
+GA,Lumpkin,Echols +38,3474,100,LUMPKIN
+GA,Macon,Johnson +47,1590,100,MACON
+GA,Madison,Echols +28,3736,100,MADISON
+GA,Marion,Johnson +16,765,100,MARION
+GA,McDuffie,Echols +4,2938,100,MCDUFFIE
+GA,McIntosh,Echols +16,2409,100,MCINTOSH
+GA,Meriwether,Echols +3,3095,100,MERIWETHER
+GA,Miller,Echols +56,581,100,MILLER
+GA,Mitchell,Johnson +11,2426,100,MITCHELL
+GA,Monroe,Echols +27,5109,100,MONROE
+GA,Montgomery,Echols +19,734,100,MONTGOMERY
+GA,Morgan,Echols +18,2835,100,MORGAN
+GA,Murray,Echols +60,2771,100,MURRAY
+GA,Muscogee,Johnson +59,19451,100,MUSCOGEE
+GA,Newton,Johnson +45,14383,100,NEWTON
+GA,Oconee,Echols +18,8119,100,OCONEE
+GA,Oglethorpe,Echols +24,2850,100,OGLETHORPE
+GA,Paulding,Johnson +1,21096,100,PAULDING
+GA,Peach,Johnson +23,3654,100,PEACH
+GA,Pickens,Echols +54,4999,100,PICKENS
+GA,Pierce,Echols +72,2303,100,PIERCE
+GA,Pike,Echols +53,2478,100,PIKE
+GA,Polk,Echols +48,5787,100,POLK
+GA,Pulaski,Echols +0,0,100,PULASKI
+GA,Putnam,Echols +26,2985,100,PUTNAM
+GA,Quitman,Johnson +26,202,100,QUITMAN
+GA,Rabun,Echols +37,2985,100,RABUN
+GA,Randolph,Johnson +33,1124,100,RANDOLPH
+GA,Richmond,Johnson +60,22957,100,RICHMOND
+GA,Rockdale,Johnson +71,14093,100,ROCKDALE
+GA,Schley,Echols +56,579,100,SCHLEY
+GA,Screven,Johnson +4,1571,100,SCREVEN
+GA,Seminole,Echols +14,1043,100,SEMINOLE
+GA,Spalding,Echols +5,10839,100,SPALDING
+GA,Stephens,Echols +45,2397,100,STEPHENS
+GA,Stewart,Johnson +45,804,100,STEWART
+GA,Sumter,Johnson +23,4160,100,SUMTER
+GA,Talbot,Johnson +48,846,100,TALBOT
+GA,Taliaferro,Johnson +24,289,100,TALIAFERRO
+GA,Tattnall,Echols +34,1993,100,TATTNALL
+GA,Taylor,Echols +26,1311,100,TAYLOR
+GA,Telfair,Echols +7,882,100,TELFAIR
+GA,Terrell,Johnson +45,1468,100,TERRELL
+GA,Thomas,Echols +4,6181,100,THOMAS
+GA,Tift,Echols +5,2886,100,TIFT
+GA,Toombs,Echols +31,2509,100,TOOMBS
+GA,Towns,Echols +38,1521,100,TOWNS
+GA,Treutlen,Echols +5,476,100,TREUTLEN
+GA,Troup,Echols +11,8915,100,TROUP
+GA,Turner,Johnson +4,902,100,TURNER
+GA,Twiggs,Johnson +35,965,100,TWIGGS
+GA,Union,Echols +57,5825,100,UNION
+GA,Upson,Echols +32,4762,100,UPSON
+GA,Walker,Echols +46,5831,100,WALKER
+GA,Walton,Echols +29,13681,100,WALTON
+GA,Ware,Echols +26,3739,100,WARE
+GA,Warren,Johnson +26,819,100,WARREN
+GA,Washington,Johnson +33,2262,100,WASHINGTON
+GA,Wayne,Echols +35,2835,100,WAYNE
+GA,Webster,Echols +21,367,100,WEBSTER
+GA,Wheeler,Echols +19,462,100,WHEELER
+GA,White,Echols +55,4379,100,WHITE
+GA,Whitfield,Echols +38,8755,100,WHITFIELD
+GA,Wilcox,Echols +23,712,100,WILCOX
+GA,Wilkes,Echols +5,2055,100,WILKES
+GA,Wilkinson,Johnson +7,1737,100,WILKINSON
+GA,Worth,Echols +21,2124,100,WORTH

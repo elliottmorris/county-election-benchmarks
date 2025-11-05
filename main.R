@@ -38,7 +38,8 @@ pres = pres %>%
 # output 2024 results file, for a viz
 pres %>%
   filter(year == 2024) %>%
-  select(state_abb, county_name, votes_all, dem_margin) %>%
+  arrange(state_abb, county_fips, year) %>%
+  select(state_abb, county_name, county_fips, votes_all, dem_margin) %>%
   # make key fields more readable
   mutate_if(is.numeric, function(x){round(x,2)}) %>%
   # write
