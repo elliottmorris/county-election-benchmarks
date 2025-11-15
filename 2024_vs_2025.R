@@ -48,7 +48,7 @@ gg1 = ggplot(joint, aes(x = dem_margin, y= dem_margin_2025, weight = total_votes
   theme_minimal() + 
   geom_abline() +
   labs(x = "Democratic margin in 2024 presidential race",
-       y = "2025 ballots cast / 2024 ballots cast",
+       y = "Democratic margin in 2025 statewide election",
        title = "Almost every county moved toward Democrats in VA, NJ, PA and GA",
        col = 'State',
        size = 'Total votes cast in 2025')  +
